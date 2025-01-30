@@ -1,0 +1,14 @@
+C:\Users\HEMANTHKUMAR REDDY\source\repos\day4prgm2\day4prgm2\bin\Debug\net8.0\day4prgm2.exe
+C:\Users\HEMANTHKUMAR REDDY\source\repos\day4prgm2\day4prgm2\bin\Debug\net8.0\day4prgm2.deps.json
+C:\Users\HEMANTHKUMAR REDDY\source\repos\day4prgm2\day4prgm2\bin\Debug\net8.0\day4prgm2.runtimeconfig.json
+C:\Users\HEMANTHKUMAR REDDY\source\repos\day4prgm2\day4prgm2\bin\Debug\net8.0\day4prgm2.dll
+C:\Users\HEMANTHKUMAR REDDY\source\repos\day4prgm2\day4prgm2\bin\Debug\net8.0\day4prgm2.pdb
+C:\Users\HEMANTHKUMAR REDDY\source\repos\day4prgm2\day4prgm2\obj\Debug\net8.0\day4prgm2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HEMANTHKUMAR REDDY\source\repos\day4prgm2\day4prgm2\obj\Debug\net8.0\day4prgm2.AssemblyInfoInputs.cache
+C:\Users\HEMANTHKUMAR REDDY\source\repos\day4prgm2\day4prgm2\obj\Debug\net8.0\day4prgm2.AssemblyInfo.cs
+C:\Users\HEMANTHKUMAR REDDY\source\repos\day4prgm2\day4prgm2\obj\Debug\net8.0\day4prgm2.csproj.CoreCompileInputs.cache
+C:\Users\HEMANTHKUMAR REDDY\source\repos\day4prgm2\day4prgm2\obj\Debug\net8.0\day4prgm2.dll
+C:\Users\HEMANTHKUMAR REDDY\source\repos\day4prgm2\day4prgm2\obj\Debug\net8.0\refint\day4prgm2.dll
+C:\Users\HEMANTHKUMAR REDDY\source\repos\day4prgm2\day4prgm2\obj\Debug\net8.0\day4prgm2.pdb
+C:\Users\HEMANTHKUMAR REDDY\source\repos\day4prgm2\day4prgm2\obj\Debug\net8.0\day4prgm2.genruntimeconfig.cache
+C:\Users\HEMANTHKUMAR REDDY\source\repos\day4prgm2\day4prgm2\obj\Debug\net8.0\ref\day4prgm2.dll
