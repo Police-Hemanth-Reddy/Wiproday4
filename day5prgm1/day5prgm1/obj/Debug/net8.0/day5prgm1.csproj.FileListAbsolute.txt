@@ -1,0 +1,14 @@
+C:\Users\HEMANTHKUMAR REDDY\source\repos\day5prgm1\day5prgm1\bin\Debug\net8.0\day5prgm1.exe
+C:\Users\HEMANTHKUMAR REDDY\source\repos\day5prgm1\day5prgm1\bin\Debug\net8.0\day5prgm1.deps.json
+C:\Users\HEMANTHKUMAR REDDY\source\repos\day5prgm1\day5prgm1\bin\Debug\net8.0\day5prgm1.runtimeconfig.json
+C:\Users\HEMANTHKUMAR REDDY\source\repos\day5prgm1\day5prgm1\bin\Debug\net8.0\day5prgm1.dll
+C:\Users\HEMANTHKUMAR REDDY\source\repos\day5prgm1\day5prgm1\bin\Debug\net8.0\day5prgm1.pdb
+C:\Users\HEMANTHKUMAR REDDY\source\repos\day5prgm1\day5prgm1\obj\Debug\net8.0\day5prgm1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HEMANTHKUMAR REDDY\source\repos\day5prgm1\day5prgm1\obj\Debug\net8.0\day5prgm1.AssemblyInfoInputs.cache
+C:\Users\HEMANTHKUMAR REDDY\source\repos\day5prgm1\day5prgm1\obj\Debug\net8.0\day5prgm1.AssemblyInfo.cs
+C:\Users\HEMANTHKUMAR REDDY\source\repos\day5prgm1\day5prgm1\obj\Debug\net8.0\day5prgm1.csproj.CoreCompileInputs.cache
+C:\Users\HEMANTHKUMAR REDDY\source\repos\day5prgm1\day5prgm1\obj\Debug\net8.0\day5prgm1.dll
+C:\Users\HEMANTHKUMAR REDDY\source\repos\day5prgm1\day5prgm1\obj\Debug\net8.0\refint\day5prgm1.dll
+C:\Users\HEMANTHKUMAR REDDY\source\repos\day5prgm1\day5prgm1\obj\Debug\net8.0\day5prgm1.pdb
+C:\Users\HEMANTHKUMAR REDDY\source\repos\day5prgm1\day5prgm1\obj\Debug\net8.0\day5prgm1.genruntimeconfig.cache
+C:\Users\HEMANTHKUMAR REDDY\source\repos\day5prgm1\day5prgm1\obj\Debug\net8.0\ref\day5prgm1.dll
