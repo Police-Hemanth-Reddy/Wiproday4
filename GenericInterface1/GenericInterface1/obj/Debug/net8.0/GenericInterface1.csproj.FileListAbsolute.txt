@@ -1,0 +1,14 @@
+C:\Users\HEMANTHKUMAR REDDY\source\repos\GenericInterface1\GenericInterface1\bin\Debug\net8.0\GenericInterface1.exe
+C:\Users\HEMANTHKUMAR REDDY\source\repos\GenericInterface1\GenericInterface1\bin\Debug\net8.0\GenericInterface1.deps.json
+C:\Users\HEMANTHKUMAR REDDY\source\repos\GenericInterface1\GenericInterface1\bin\Debug\net8.0\GenericInterface1.runtimeconfig.json
+C:\Users\HEMANTHKUMAR REDDY\source\repos\GenericInterface1\GenericInterface1\bin\Debug\net8.0\GenericInterface1.dll
+C:\Users\HEMANTHKUMAR REDDY\source\repos\GenericInterface1\GenericInterface1\bin\Debug\net8.0\GenericInterface1.pdb
+C:\Users\HEMANTHKUMAR REDDY\source\repos\GenericInterface1\GenericInterface1\obj\Debug\net8.0\GenericInterface1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HEMANTHKUMAR REDDY\source\repos\GenericInterface1\GenericInterface1\obj\Debug\net8.0\GenericInterface1.AssemblyInfoInputs.cache
+C:\Users\HEMANTHKUMAR REDDY\source\repos\GenericInterface1\GenericInterface1\obj\Debug\net8.0\GenericInterface1.AssemblyInfo.cs
+C:\Users\HEMANTHKUMAR REDDY\source\repos\GenericInterface1\GenericInterface1\obj\Debug\net8.0\GenericInterface1.csproj.CoreCompileInputs.cache
+C:\Users\HEMANTHKUMAR REDDY\source\repos\GenericInterface1\GenericInterface1\obj\Debug\net8.0\GenericInterface1.dll
+C:\Users\HEMANTHKUMAR REDDY\source\repos\GenericInterface1\GenericInterface1\obj\Debug\net8.0\refint\GenericInterface1.dll
+C:\Users\HEMANTHKUMAR REDDY\source\repos\GenericInterface1\GenericInterface1\obj\Debug\net8.0\GenericInterface1.pdb
+C:\Users\HEMANTHKUMAR REDDY\source\repos\GenericInterface1\GenericInterface1\obj\Debug\net8.0\GenericInterface1.genruntimeconfig.cache
+C:\Users\HEMANTHKUMAR REDDY\source\repos\GenericInterface1\GenericInterface1\obj\Debug\net8.0\ref\GenericInterface1.dll
